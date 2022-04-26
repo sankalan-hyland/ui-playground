@@ -1,0 +1,9 @@
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: .
+Manifest-Version: 1.0
+Bundle-Vendor: playground.ui
+Bundle-Version: 1.0.0
+Bundle-Name: ui-playground-web
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: playground.ui.ui-playground-web;singleton=true
+Nuxeo-Component: OSGI-INF/ui-playground-auth-contrib.xml
